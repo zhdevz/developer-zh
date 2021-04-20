@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developer-zh
 - 👀 I’m interested in mobile development, responsive design, and anything cool about programming.
-- 🌱 I'm a Java developer by profession. I’m currently learning dart with flutter.
+- 🌱 I'm a Java developer by profession, which is currently learning and creating mobile apps using dart with flutter.
 - 📫 You can reach me at developer-zh@pm.me
 
 <!---
